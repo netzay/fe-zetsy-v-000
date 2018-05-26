@@ -18,7 +18,13 @@ body {
 }
 
 /* Write all remaining styles here */
-
+header a {
+    color: rgb(152,173,166);
+    text-decoration: none;
+}
+a {
+    background: transparent;
+}
 p {
     color: #555;
     font-size: 1em;
